@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapApplication</string>
+    <string name="new_location">Nouvelle position : Lat: %.6f, Lon: %.6f, Alt: %.2f m, Précision: %.1f m</string>
+
+    <!-- <string name="new_location">Nouvelle position : Lat: %.6f, Lon: %.6f, Alt: %.2f m, Précision:
+        %.1f m
+    </string> -->
+</resources>
